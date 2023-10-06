@@ -44,8 +44,19 @@ input{
     height: 50px;
     width: 20%;
     outline: none;
+
 }
 textarea{
     outline: none;
     height: 100px;
+}
+@media (max-width:500px) {
+    .btv{
+
+width: 100px;    }
+.mainbt{
+    width: 100px;
+
+}
+    
 }
