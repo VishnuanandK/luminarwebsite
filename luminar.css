@@ -50,6 +50,42 @@ textarea{
     outline: none;
     height: 100px;
 }
+
+.lm{
+    background-color: #5e068a;
+    height: 50px;
+    width: 20%;
+    outline: none;
+}
+h2{
+    color: #5e068a;
+
+}
+span{
+    color: #693a81;
+}
+h3{
+    color: #5e068a;
+}
+.wb1{
+    height: 400px;
+    width: 100%;
+}
+.wb2{
+    height: 350px;
+    width: 100%;
+}
+.vm{
+    background-color: #5e068a;
+    height: 40px;
+
+    outline: none;
+}
+h4{
+    color: #5e068a;
+}
+
+
 @media (max-width:500px) {
     .btv{
 
